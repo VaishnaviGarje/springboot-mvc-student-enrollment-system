@@ -42,7 +42,7 @@ Application Endpoints
 /viewstudents - View students page
 /Saveuser - Save student POST endpoint
 /viewsubjects - View subjects page
-
+//manualy you need to add this password and username in database because i have not created registration form.
 //to login use 
 password  username
 1                  invalid.user 
